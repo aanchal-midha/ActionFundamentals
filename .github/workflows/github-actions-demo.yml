@@ -1,3 +1,4 @@
+name: Aanchal test workflow
 on:
   push:
     branches: [ main ]
